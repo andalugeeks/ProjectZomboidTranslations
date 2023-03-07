@@ -1,27 +1,28 @@
-	MultiStageBuild_ES = {
-	-- Wooden Wall
-	MultiStageBuild_CreateWoodenWall_1 = "Côttruîh paré de madera Mb1"
-	MultiStageBuild_UpgradeWoodenWall_1To2 = "Mehorâh a paré de madera Mb2"
-	MultiStageBuild_CreateWoodenWall_2 = "Côttruîh paré de madera Mb2"
-	MultiStageBuild_UpgradeWoodenWall_1To3 = "Mehorâh a paré de madera Mb3"
-	MultiStageBuild_UpgradeWoodenWall_2To3 = "Mehorâh a paré de madera Mb3"
-	MultiStageBuild_CreateWoodenWall_3 = "Côttruîh paré de madera Mb3"
-	-- Wooden Window
-	MultiStageBuild_CreateWoodenWindow_1 = "Côttruîh bentana de madera Mb1"
-	MultiStageBuild_UpgradeWoodenWindow_1To2 = "Mehorâh a bentana de madera Mb2"
-	MultiStageBuild_CreateWoodenWindow_2 = "Côttruîh bentana de madera Mb2"
-	MultiStageBuild_UpgradeWoodenWindow_1To3 = "Mehorâh a bentana de madera Mb3"
-	MultiStageBuild_UpgradeWoodenWindow_2To3 = "Mehorâh a bentana de madera Mb3"
-	MultiStageBuild_CreateWoodenWindow_3 = "Côttruîh bentana de madera Mb3"
-	-- Metal Wall
-	MultiStageBuild_CreateMetalWall_1 = "Côttruîh paré metálica Mb1"
-	MultiStageBuild_UpgradeMetalWall_1To2 = "Mehorâh a paré metálica Mb2"
-	MultiStageBuild_CreateMetalWall_2 = "Côttruîh paré metálica Mb2"
-	-- Metal Window
-	MultiStageBuild_CreateMetalWindow_1 = "Côttruîh bentana metálica Mb1"
-	MultiStageBuild_UpgradeMetalWindow_1To2 = "Mehorâh a bentana metálica Mb2"
-	MultiStageBuild_CreateMetalWindow_2 = "Côttruîh bentana metálica Mb2"
-	-- wooden door frame
-	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Mehorâh a bâttidôh de puerta Mb2"
-	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Mehorâh a bâttidôh de puerta Mb3"
-	}
+MultiStageBuild_AND = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Côttruîh paré de madera Nb 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Mehorâh a paré de madera Nb 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Côttruîh paré de madera Nb 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Mehorâh a paré de madera Nb 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Mehorâh a paré de madera Nb 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Côttruîh paré de madera Nb 3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Côttruîh bentana de madera Nb 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Mehorâh a bentana de madera Nb 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Côttruîh bentana de madera Nb 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Mehorâh a bentana de madera Nb 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Mehorâh a bentana de madera Nb 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Côttruîh bentana de madera Nb 3",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Côttruîh paré metálica Nb 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Mehorâh a paré metálica Nb 2",
+    MultiStageBuild_CreateMetalWall_2 = "Côttruîh paré metálica Nb 2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Côttruîh bentana metálica Nb 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Mehorâh a bentana metálica Nb 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Côttruîh bentana metálica Nb 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Mehorâh a bâttidôh de puerta Nb 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Mehorâh a bâttidôh de puerta Nb 3",
+}
+

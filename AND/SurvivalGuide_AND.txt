@@ -1,4 +1,4 @@
-SurvivalGuide_ES = {
+SurvivalGuide_AND = {
 	SurvivalGuide_WindowTitle = "GUÍA DE ÇUPERBIBENÇIA ZOMBOID",
 	SurvivalGuide_entrie1title = "#1 - LO BÁSICO",
 	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - CONTRÓLATE <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> No vas a sobrevivir mucho tiempo si no respiras hondo y aprendes lo básico.",
