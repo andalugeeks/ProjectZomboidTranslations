@@ -1,4 +1,4 @@
 VERSION = 1,
 text = Andalusian (EPA),
-charset = Cp1252,,
+charset = Cp1252,
 

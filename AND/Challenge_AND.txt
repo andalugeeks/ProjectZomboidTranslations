@@ -1,74 +1,64 @@
-Challenge_ES = {
-	Challenge_YouHaveOneDay_name = "Tienes un día",
-	Challenge_YouHaveOneDay_desc = "Estás de regreso en el condado de Knox. Has vuelto al mapa donde comenzó la infección de Project Zomboid. <LINE> <LINE> Tienes un día de relativa seguridad. Llegará una gran cantidad de zombis y te encontrarán. ¿Dónde te esconderás para resistir de nuevo? ¿Dónde te escondiste la última vez? Será mejor que lo encuentres rápido. <LINE> <LINE> [Nuestro agradecimiento a BobHeckling por recrear el mapa de la versión 0.1.5 con las herramientas actuales de PZ.]",
-
-	Challenge_WinterIsComing_name = "Se acerca el invierno",
-	Challenge_WinterIsComing_desc = "Estamos a mediados de julio, pero de repente la brisa se vuelve fría. Dentro de sólo tres días, el invierno llegará como nunca antes. <LINE> <LINE> Te despiertas en un lugar aislado. Tienes pocas provisiones, y las hordas de zombies pueden ser ralentizadas por el intenso frío, pero no son menos mortíferas. <LINE> <LINE> Abrígate, superviviente...",
-
-	Challenge_OpeningHours_name = "Horario de apertura",
-	Challenge_OpeningHours_desc = "El centro comercial está rodeado. Hace mucho tiempo, fue un lugar importante en sus vidas. El instinto los ha llevado a sus puertas. Un recuerdo de lo que solían hacer... <LINE> <LINE> Estás solo, pero no por mucho tiempo. A las 9 de la mañana el centro comercial estará preparado para la apertura: las puertas se abrirán y las hordas podrán entrar. <LINE> <LINE> Prepárate a recibirlos.",
-
-	Challenge_AReallyCDDAy_name = "Un día realmente malo",
-	Challenge_AReallyCDDAy_desc = "Sales de la ducha y tropiezas. Estás completamente borracho, y tienes un terrible resfriado. <LINE> <LINE> Encima de todo, ¡la casa está en llamas! Hoy definitivamente no es tu día. <LINE> <LINE> Un reto inspirado en A Really Bad Day del impresionante, maravilloso e IMPRESCINDIBLE Cataclysm: Dark Days Ahead] ",
-
-	Challenge_Challenge1_name = "Casa en el bosque - Última batalla",
-	Challenge_Challenge1_desc = "Se les oye acercarse. Hordas de muertos invaden tu solitaria cabaña desde todos los ángulos. La muerte es inevitable, pero tienes una escopeta al alcance de la mano. <LINE> <LINE> Última resistencia presenta interminables oleadas de zombis cada vez mayores. Sobrevive el mayor tiempo posible a pesar de las circunstancias.",
-
-	Challenge_Challenge2_name = "Casa en el bosque - Última batalla acumulable",
-	Challenge_Challenge2_desc = "Un día más, otra cabaña lista para la matanza. Las hordas están encima de ti, y tu muerte será tan dolorosa como espantosa. Así que sal a pelear... <LINE> <LINE> Última resistencia acumulable presenta oleadas interminables de zombis cada vez mayores. Usa el dinero ganado matando zombis para comprar equipamiento, subir de nivel y reparar tu armamento.",
-
-	Challenge_AStormIsComing_name = "Tormenta a la vista",
-	Challenge_AStormIsComing_desc = "Las nubes se ciernen sobre Kentucky. El estruendo de los truenos se oye a lo lejos. <LINE> <LINE> A medida que el cielo se oscurece, los muertos que vagan por las calles se inquietan. <LINE> <LINE> Es una tempestad que aumentará y disminuirá en su magnitud, pero que nunca terminará.",
-
-	Challenge_TheDescendingFog_name = "La niebla descendente",
-	Challenge_TheDescendingFog_desc = "La gente la vio por primera vez en el agua. Una débil manta blanca sobre el río Ohio. <LINE> <LINE> Comenzó como una neblina. Luego envolvió la ciudad. Los habitantes del pueblo murieron mientras gritaban en la oscuridad. Ahora ellos deambulan por ahí. <LINE> <LINE> Invisibles, inadvertidos e implacables en su búsqueda de los supervivientes.",
-
-	Challenge_Kingsmouth_name = "Kingsmouth",
-	Challenge_Kingsmouth_desc = "¡Disfruta de una relajante estancia en la isla de Kingsmouth!",
-
-	Challenge_Studio_name = "Estudio",
-	Challenge_Studio_desc = "¡Donde se ruedan las mejores películas!",
+	Challenge_ES = {
+	Challenge_YouHaveOneDay_name = "Tienê un día"
+	Challenge_YouHaveOneDay_desc = "Êttâh de regreço en er condao de Knôh. Âh buerto ar mapa donde començó la infêççión de Prohêtt Çomboîh. <LINE> <LINE> Tienê un día de relatiba çeguridá. Yegará una gran cantidá de çombî y te encontrarán. ¿Dónde te êcconderâh pa reçîttîh de nuebo? ¿Dónde te êccondîtte la úrtima bêh? Çerá mehôh que lo encuentrê rápido. <LINE> <LINE> [Nuêttro agradeçimiento a BobEckling por recreâh er mapa de la berçión 0.1.5 con lâ erramientâ âttualê de PZ.]"
+	Challenge_WinterIsComing_name = "Çe açerca el imbiênno"
+	Challenge_WinterIsComing_desc = "Êttamô a mediáô de hulio, pero de repente la briça çe buerbe fría. Dentro de çólo trêh díâ, el imbiênno yegará como nunca antê. <LINE> <LINE> Te dêppiertâ en un lugâh aîl-lao. Tienê pocâ probiçionê, y lâ ordâ de çombiê pueden çêh ralentiçâh por el intenço frío, pero no çon menô mortíferâ. <LINE> <LINE> Abrígate, çuperbibiente..."
+	Challenge_OpeningHours_name = "Orario de apertura"
+	Challenge_OpeningHours_desc = "Er çentro comerçiâh êttá rodeao. Açe muxo tiempo, fue un lugâh importante en çû bidâ. El îttinto lô a yebao a çû puertâ. Un recuerdo de lo que çolían açêh... <LINE> <LINE> Êttâh çolo, pero no por muxo tiempo. A lâ 9 de la mañana er çentro comerçiâh êttará preparao pa la apertura: lâ puertâ çe abrirán y lâ ordâ podrán entrâh. <LINE> <LINE> Prepárate a reçibîl-lô."
+	Challenge_AReallyCDDAy_name = "Un día rearmente malo"
+	Challenge_AReallyCDDAy_desc = "Çalê de la duxa y tropieçâ. Êttâh completamente borraxo, y tienê un terrible rêffriao. <LINE> <LINE> Ençima de tó, ¡la caça êttá en yamâ! Oy definitibamente no êh tu día. <LINE> <LINE> Un reto îppirao en A Reayy Bá Day del impreçionante, marabiyoço e IMPRÊÇÇINDIBLE Cataclysm: Dark Days Aeá] "
+	Challenge_Challenge1_name = "Caça en er bôqque - Úrtima bataya"
+	Challenge_Challenge1_desc = "Çe lê oye açercarçe. Ordâ de muertô imbaden tu çolitaria cabaña dêdde tôh lô ángulô. La muerte êh inebitable, pero tienê una êccopeta al arcançe de la mano. <LINE> <LINE> Úrtima reçîttençia preçenta interminablê oleâh de çombî cá bêh mayorê. Çobrebibe er mayôh tiempo poçible a peçâh de lâ çircûttançiâ."
+	Challenge_Challenge2_name = "Caça en er bôqque - Úrtima bataya acumulable"
+	Challenge_Challenge2_desc = "Un día mâh, otra cabaña lîtta pa la matança. Lâ ordâ êttán ençima de ti, y tu muerte çerá tan doloroça como êppantoça. Açí que çâh a peleâh... <LINE> <LINE> Úrtima reçîttençia acumulable preçenta oleâh interminablê de çombî cá bêh mayorê. Uça er dinero ganao matando çombî pa comprâh equipamiento, çubîh de nibêh y reparâh tu armamento."
+	Challenge_AStormIsComing_name = "Tormenta a la bîtta"
+	Challenge_AStormIsComing_desc = "Lâ nubê çe çiênnen çobre Kentucky. El êttruendo de lô truenô çe oye a lo lehô. <LINE> <LINE> A medida que er çielo çe ôccureçe, lô muertô que bagan por lâ cayê çe inquietan. <LINE> <LINE> Êh una tempêttá que aumentará y dîmminuirá en çu mânnitûh, pero que nunca terminará."
+	Challenge_TheDescendingFog_name = "La niebla dêççendente"
+	Challenge_TheDescendingFog_desc = "La hente la bio por primera bêh en el agua. Una débî manta blanca çobre el río Oio. <LINE> <LINE> Començó como una neblina. Luego emborbió la çiudá. Lô abitantê der pueblo murieron mientrâ gritaban en la ôccuridá. Aora eyô deambulan por aí. <LINE> <LINE> Imbiçiblê, inâbbertíô e implacablê en çu búqqueda de lô çuperbibientê."
+	Challenge_Kingsmouth_name = "Kingsmoûh"
+	Challenge_Kingsmouth_desc = "¡Dîffruta de una relahante êttançia en la îl-la de Kingsmoûh!"
+	Challenge_Studio_name = "Êttudio"
+	Challenge_Studio_desc = "¡Donde çe ruedan lâ mehorê películâ!"
 	-- On-screen UI
-	Challenge_Challenge2_PressKey = "Pulsa o para un aumento permanente y para gastar algo de dinero.",
-	Challenge_Challenge2_WaveStart = "Oleada %1 en : %2 (presiona Intro para saltar)",
-	Challenge_Challenge2_WaveDuration = "Oleada %1 : %2",
-	Challenge_Challenge2_ZombiesLeft = "Zombis restantes: %1",
-	Challenge_Challenge2_Money = "Dinero : %1",
-	Challenge_Challenge2_Money2 = "Jugador %1 dinero : %2",
-	Challenge_Challenge2_WaveFinished = "Oleada %1 terminada en : %2",
-	Challenge_Challenge2_MoneyGained = "Dinero ganado : %1",
-	Challenge_Challenge2_XPGained = "Experiencia ganada : %1",
+	Challenge_Challenge2_PressKey = "Purça o pa un aumento permanente y pa gâttâh argo de dinero."
+	Challenge_Challenge2_WaveStart = "Oleá %1 en : %2 (preçiona Intro pa çartâh)"
+	Challenge_Challenge2_WaveDuration = "Oleá %1 : %2"
+	Challenge_Challenge2_ZombiesLeft = "Çombî rêttantê: %1"
+	Challenge_Challenge2_Money = "Dinero : %1"
+	Challenge_Challenge2_Money2 = "Hugadôh %1 dinero : %2"
+	Challenge_Challenge2_WaveFinished = "Oleá %1 terminá en : %2"
+	Challenge_Challenge2_MoneyGained = "Dinero ganao : %1"
+	Challenge_Challenge2_XPGained = "Êpperiençia ganá : %1"
 	-- Window
-	Challenge_Challenge2_WindowTitle = "Última batalla",
-	Challenge_Challenge2_TabPlayer = "Jugador",
-	Challenge_Challenge2_Weapons = "Armas",
-	Challenge_Challenge2_TabItems = "Objetos",
-	Challenge_Challenge2_TabRepair = "Reparar",
-	Challenge_Challenge2_CurrentXp = "XP : %1",
-	Challenge_Challenge2_ButtonSkill = "%1 Nivel %2 - %3 XP",
-	Challenge_Challenge2_ButtonSkillMax = "%1 Nivel máximo",
-	Challenge_Challenge2_GoldBonus = "Bonus de dinero",
-	Challenge_Challenge2_XpBonus = "Bonus de XP",
-	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
-	Challenge_Challenge2_ButtonBonusMax = "%1 Máximo",
-	Challenge_Challenge2_ButtonStartGold = "+%1 Dinero inicial - %2 XP",
-	Challenge_Challenge2_ButtonStartGoldMax = "Dinero inicial máximo %1",
+	Challenge_Challenge2_WindowTitle = "Úrtima bataya"
+	Challenge_Challenge2_TabPlayer = "Hugadôh"
+	Challenge_Challenge2_Weapons = "Armâ"
+	Challenge_Challenge2_TabItems = "Ôhhetô"
+	Challenge_Challenge2_TabRepair = "Reparâh"
+	Challenge_Challenge2_CurrentXp = "ÇP : %1"
+	Challenge_Challenge2_ButtonSkill = "%1 Nibêh %2 - %3 ÇP"
+	Challenge_Challenge2_ButtonSkillMax = "%1 Nibêh máççimo"
+	Challenge_Challenge2_GoldBonus = "Bonû de dinero"
+	Challenge_Challenge2_XpBonus = "Bonû de ÇP"
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 ÇP"
+	Challenge_Challenge2_ButtonBonusMax = "%1 Máççimo"
+	Challenge_Challenge2_ButtonStartGold = "+%1 Dinero iniçiâh - %2 ÇP"
+	Challenge_Challenge2_ButtonStartGoldMax = "Dinero iniçiâh máççimo %1"
 	-- PlayerUpWindow
-	Challenge_Challenge2_Skills = "Habilidades",
-	Challenge_Challenge2_PermanentBonus = "Bonificación permanente",
+	Challenge_Challenge2_Skills = "Abilidadê"
+	Challenge_Challenge2_PermanentBonus = "Bonificaçión permanente"
 	-- VariousItemWindow
-	Challenge_Challenge2_Carpentry = "Carpintería",
-	Challenge_Challenge2_Health = "Salud",
-	Challenge_Challenge2_ItemButton = "%1 - %2",
-	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	Challenge_Challenge2_Carpentry = "Carpintería"
+	Challenge_Challenge2_Health = "Çalûh"
+	Challenge_Challenge2_ItemButton = "%1 - %2"
+	Challenge_Challenge2_ItemButton2 = "%1 ç%2 - %3"
 	-- WeaponRepairWindow
-	Challenge_Challenge2_RepairWeapon = "Reparar arma",
+	Challenge_Challenge2_RepairWeapon = "Reparâh arma"
 	-- WeaponUpWindow
-	Challenge_Challenge2_Health = "Salud",
-
-	Challenge_OpeningHoursInfoBox = " <CENTRE> El centro comercial abre a las 9AM. <LINE> <LINE> Prepárate para la avalancha...",
-	Challenge_WinterIsComingInfoBox = " <CENTRE> En tres días comienza un invierno interminable. <LINE> <LINE> Abrígate...",
-	Challenge_YouHaveOneDayInfoBox = " <CENTRE> En 24 horas tu regreso al condado de Knox se convertirá en un infierno...",
-	Challenge_AStormIsComingInfoBox = " <CENTRE> Se avecina una incesante tormenta...",
-	Challenge_TheDescendingFogInfoBox = " <CENTRE> Se está poniendo nebuloso...",
-}
+	Challenge_Challenge2_Health = "Çalûh"
+	Challenge_OpeningHoursInfoBox = " <ÇENTRE> Er çentro comerçiâh abre a lâ 9AM. <LINE> <LINE> Prepárate pa la abalanxa..."
+	Challenge_WinterIsComingInfoBox = " <ÇENTRE> En trêh díâ comiença un imbiênno interminable. <LINE> <LINE> Abrígate..."
+	Challenge_YouHaveOneDayInfoBox = " <ÇENTRE> En 24 orâ tu regreço ar condao de Knôh çe combertirá en un infiênno..."
+	Challenge_AStormIsComingInfoBox = " <ÇENTRE> Çe abeçina una inçeçante tormenta..."
+	Challenge_TheDescendingFogInfoBox = " <ÇENTRE> Çe êttá poniendo nebuloço..."
+	}
