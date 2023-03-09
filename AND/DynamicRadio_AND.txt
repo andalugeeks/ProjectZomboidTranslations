@@ -1,9 +1,9 @@
 DynamicRadio_AND {
 	AEBS_Intro = "<bzzt> Çinco çero dôh <wzzt> Çîttema de emiçión automática. <bzzt>",
 	AEBS_Choppah = "Âttibidá aérea detêttá.",
-	AEBS_Power_1 = "Ré eléttrica de Knôh: Flûttuaçionê de potençia detêttâh.",
-	AEBS_Power_2 = "Ré eléttrica de Knôh: Lô çîttemâ fayan. Interrûççión de la ré.",
-	AEBS_Power_3 = "Ré eléttrica de Knôh: Apagón.",
+	AEBS_Power_1 = "Ré eléttrica de Knox: Flûttuaçionê de potençia detêttâh.",
+	AEBS_Power_2 = "Ré eléttrica de Knox: Lô çîttemâ fayan. Interrûççión de la ré.",
+	AEBS_Power_3 = "Ré eléttrica de Knox: Apagón.",
 	AEBS_Pre_today = "Oy,",
 	AEBS_Pre_tomorrow = "Mañana,",
 	AEBS_Pre_dayafter = "Paçao mañana,",
